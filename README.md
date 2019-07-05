@@ -1,2 +1,2 @@
 # JavaCore
-practice
+usual code
