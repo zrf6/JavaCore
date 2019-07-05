@@ -1,2 +1,3 @@
 # JavaCore
-usual code
+some common codes
+一些常用代码的库
